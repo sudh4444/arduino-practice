@@ -92,5 +92,3 @@ This is the foundational experiment to verify:
 - **avr-libc**
 - **avrdude**
 - Arduino Uno (ATmega328P)
-
-Example MCU:
